@@ -1,0 +1,5 @@
+<CommunityApplications>
+  <Profile>Community Apps templates maintained by Aurial. Currently: one app in this repository, **Phonon TTS** — a template for the official OpenAI-compatible speech server of [Phonon](https://github.com/gradium-ai/xn-ptts), Gradium's open-weight on-device text-to-speech models, running CPU-only in Unraid. A companion repository covers [Strata AMD](https://github.com/Aurial/strata-unraid-amd). Template and Unraid problems: open an issue in this repository. Problems with the server itself: https://github.com/gradium-ai/xn-ptts/issues</Profile>
+  <Icon>https://raw.githubusercontent.com/Aurial/phonon-unraid/main/icon.png</Icon>
+  <WebPage>https://github.com/Aurial/phonon-unraid</WebPage>
+</CommunityApplications>
