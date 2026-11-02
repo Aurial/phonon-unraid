@@ -24,7 +24,8 @@ go straight to serving.
 
 ## Home Assistant
 
-Set **Wyoming address** to `0.0.0.0:10200` and map the **Wyoming port** too (both under Advanced). Then in Home
+Under **Add another parameter (ENV, LABEL)** add an environment variable named `PTTS_WYOMING_ADDR` with value
+`0.0.0.0:10200`, and map the **Wyoming port** (under Advanced). Then in Home
 Assistant add the **Wyoming Protocol** integration with this server's address and port `10200`: Phonon appears as a
 text-to-speech engine you can pick for your voice assistant. It streams — speech starts at the first sentence of a
 reply, not the last.
